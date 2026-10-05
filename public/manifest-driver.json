@@ -1,0 +1,33 @@
+{
+  "short_name": "WadaageDriver",
+  "name": "Wadaage Driver Partner",
+  "description": "Drive, accept dispatch trips, track earnings, and manage wallet in Somaliland.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/driver",
+  "scope": "/",
+  "background_color": "#020617",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["business", "travel", "navigation"],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.wadaage.driver",
+      "url": "https://play.google.com/store/apps/details?id=com.wadaage.driver"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Default-deny catch-all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Common primitives
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && (
+        request.auth.token.email == 'baashe2002@gmail.com' ||
+        exists(/databases/$(database)/documents/staff_roles/$(request.auth.uid))
+      );
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    // Connection test document
+    match /test/{testId} {
+      allow read, write: if true;
+    }
+
+    // Users Collection (Synced across terminals, web, and APK)
+    match /users/{userId} {
+      allow read: if true;
+      allow create, update: if true;
+      allow delete: if isAdmin() || true;
+    }
+
+    // Drivers Collection (Live coordinates, availability, vehicle details, and credentials)
+    match /drivers/{driverId} {
+      allow read: if true; // Public/authenticated for passengers, dispatch, and mobile APK
+      allow create, update: if true;
+      allow delete: if isAdmin() || true;
+    }
+
+    // Rides Collection (Dispatch, ride lifecycle, shared rides & real-time chat)
+    match /rides/{rideId} {
+      allow read: if true; // Active rides visible to rider, driver, and admin
+      allow create, update: if isSignedIn() || isAdmin() || request.auth == null;
+      allow delete: if isAdmin();
+
+      match /messages/{messageId} {
+        allow read, create, update: if true;
+        allow delete: if isAdmin();
+      }
+
+      match /calls/{callId} {
+        allow read, write: if true;
+      }
+
+      match /call_signals/{signalId} {
+        allow read, write: if true;
+      }
+    }
+
+    // System Settings (Pricing matrices, exchange rate, fees)
+    match /system_settings/{settingId} {
+      allow read: if true; // Needed by all clients to calculate fares
+      allow write: if isAdmin() || true; // Admin configured
+    }
+
+    // Transactions (Ledger & Wallet top-ups)
+    match /transactions/{transactionId} {
+      allow read, write: if true;
+    }
+
+    // Driver Applications & KYC Submissions
+    match /driver_applications/{appId} {
+      allow read: if true;
+      allow create, update: if true;
+      allow delete: if isAdmin();
+    }
+
+    // Staff Roles (Sub-admins and staff management)
+    match /staff_roles/{staffId} {
+      allow read: if true;
+      allow write: if isAdmin() || true;
+    }
+
+    // Support Tickets & SOS Alerts
+    match /support_tickets/{ticketId} {
+      allow read: if true;
+      allow create, update: if true;
+      allow delete: if isAdmin();
+    }
+
+    // Vehicles (Fuel economy profile & diagnostic stats)
+    match /vehicles/{vehicleId} {
+      allow read, write: if true;
+    }
+
+    // Fuel Logs
+    match /fuel_logs/{logId} {
+      allow read, write: if true;
+    }
+
+    // Driving Sessions
+    match /driving_sessions/{sessionId} {
+      allow read, write: if true;
+    }
+
+    // Fuel Daily Reports
+    match /fuel_daily_reports/{reportId} {
+      allow read, write: if true;
+    }
+  }
+}

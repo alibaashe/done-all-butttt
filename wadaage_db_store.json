@@ -1,0 +1,273 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_baashe",
+      "phone": "+252636807814",
+      "name": "Baashe (Super Admin)",
+      "email": "baashe2002@gmail.com",
+      "role": "admin",
+      "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "gender": "male",
+      "status": "active",
+      "wallet_balance_usd": 500,
+      "wallet_balance_sos": 5625000,
+      "zaad_number": "252636807814",
+      "edahab_number": "252656807814",
+      "sahal_number": "252906807814",
+      "rating": 5,
+      "total_trips": 0,
+      "password": "",
+      "created_at": "2026-09-28T15:45:33.330Z"
+    },
+    {
+      "id": "usr_rider_demo_01",
+      "phone": "+252 63 4819202",
+      "name": "Faadumo Jaamac Cali",
+      "email": "faadumo@wadaage.com",
+      "role": "passenger",
+      "avatar_url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+      "gender": "female",
+      "status": "active",
+      "wallet_balance_usd": 25,
+      "wallet_balance_sos": 281250,
+      "zaad_number": "252634819202",
+      "edahab_number": "",
+      "sahal_number": "",
+      "rating": 5,
+      "total_trips": 12,
+      "password": "password123",
+      "created_at": "2026-09-28T15:45:33.330Z"
+    }
+  ],
+  "drivers": [
+    {
+      "id": "drv_hga_01",
+      "user_id": "drv_hga_01",
+      "name": "Maxamed Cabdi Faarax",
+      "phone": "+252 63 4455667",
+      "password": "password123",
+      "vehicle_category": "wadaage_both",
+      "vehicle_model": "Toyota Vitz",
+      "vehicle_color": "White",
+      "vehicle_plate": "SL-4921",
+      "rating": 4.95,
+      "total_trips": 342,
+      "is_verified": true,
+      "kyc_status": "approved",
+      "status": "available",
+      "lat": 9.562,
+      "lng": 44.0645,
+      "wallet_balance_usd": 15,
+      "updated_at": "2026-09-28T15:46:15.827Z"
+    },
+    {
+      "id": "drv_hga_02",
+      "user_id": "drv_hga_02",
+      "name": "Cabdiraxmaan Cali Nuur",
+      "phone": "+252 63 4918201",
+      "password": "password123",
+      "vehicle_category": "wadaage_taxi",
+      "vehicle_model": "Toyota Corolla Fielder",
+      "vehicle_color": "White",
+      "vehicle_plate": "SL-7814",
+      "rating": 4.88,
+      "total_trips": 215,
+      "is_verified": true,
+      "kyc_status": "approved",
+      "status": "available",
+      "lat": 9.5745,
+      "lng": 44.053,
+      "wallet_balance_usd": 15,
+      "updated_at": "2026-09-28T15:46:15.827Z"
+    },
+    {
+      "id": "drv_hga_03",
+      "user_id": "drv_hga_03",
+      "name": "Khadar Xasan Jaamac",
+      "phone": "+252 63 4123456",
+      "password": "password123",
+      "vehicle_category": "wadaage_share",
+      "vehicle_model": "Toyota Probox",
+      "vehicle_color": "White",
+      "vehicle_plate": "SL-3392",
+      "rating": 4.92,
+      "total_trips": 189,
+      "is_verified": true,
+      "kyc_status": "approved",
+      "status": "available",
+      "lat": 9.5515,
+      "lng": 44.0725,
+      "wallet_balance_usd": 15
+    },
+    {
+      "id": "drv_hga_04",
+      "user_id": "drv_hga_04",
+      "name": "Mustafe Jaamac Cumar",
+      "phone": "+252 63 4889900",
+      "password": "password123",
+      "vehicle_category": "wadaage_both",
+      "vehicle_model": "Toyota Ractis",
+      "vehicle_color": "White",
+      "vehicle_plate": "SL-8105",
+      "rating": 4.9,
+      "total_trips": 410,
+      "is_verified": true,
+      "kyc_status": "approved",
+      "status": "available",
+      "lat": 9.5395,
+      "lng": 44.088,
+      "wallet_balance_usd": 15
+    }
+  ],
+  "driver_applications": [],
+  "rides": [],
+  "wallet_transactions": [],
+  "driver_topup_requests": [],
+  "geofence_zones": [
+    {
+      "id": "zone_egal_airport",
+      "name": "Egal International Airport Terminal",
+      "district": "26 June District",
+      "surge_multiplier": 1.25,
+      "entry_fee_usd": 0.5,
+      "is_restricted": 0,
+      "speed_limit_kmh": 40,
+      "active_drivers_count": 8,
+      "active_riders_count": 14
+    },
+    {
+      "id": "zone_hargeisa_center",
+      "name": "Hargeisa City Center / Suuq Weyn",
+      "district": "26 June",
+      "surge_multiplier": 1.15,
+      "entry_fee_usd": 0,
+      "is_restricted": 0,
+      "speed_limit_kmh": 35,
+      "active_drivers_count": 19,
+      "active_riders_count": 42
+    },
+    {
+      "id": "zone_jigjiga_yar",
+      "name": "Jigjiga Yar Commercial & Embassy Zone",
+      "district": "Ibrahim Koodbuur",
+      "surge_multiplier": 1.1,
+      "entry_fee_usd": 0,
+      "is_restricted": 0,
+      "speed_limit_kmh": 45,
+      "active_drivers_count": 12,
+      "active_riders_count": 26
+    }
+  ],
+  "pricing_configs": [
+    {
+      "id": "wadaage_share",
+      "name": "Wadaage Share",
+      "somali_name": "Gaadhi Wadaag",
+      "icon_name": "Users",
+      "enabled": 1,
+      "status_mode": "active",
+      "base_fare_usd": 0.9,
+      "per_km_rate_usd": 0.4,
+      "per_minute_rate_usd": 0,
+      "min_fare_usd": 0.9,
+      "category_surge_multiplier": 1,
+      "driver_commission_percent": 15,
+      "cancellation_fee_usd": 0,
+      "max_passengers": 2
+    },
+    {
+      "id": "wadaage_car",
+      "name": "Wadaage Normal Car",
+      "somali_name": "Gaadhi Gaar ah (Private Sedan)",
+      "icon_name": "Car",
+      "enabled": 1,
+      "status_mode": "active",
+      "base_fare_usd": 1.2,
+      "per_km_rate_usd": 0.7,
+      "per_minute_rate_usd": 0,
+      "min_fare_usd": 1.2,
+      "category_surge_multiplier": 1,
+      "driver_commission_percent": 18,
+      "cancellation_fee_usd": 0,
+      "max_passengers": 4
+    },
+    {
+      "id": "wadaage_taxi",
+      "name": "Normal Taxi",
+      "somali_name": "Taaksi Caadi ah / Private Sedan",
+      "icon_name": "Taxi",
+      "enabled": 1,
+      "status_mode": "active",
+      "base_fare_usd": 1.2,
+      "per_km_rate_usd": 0.7,
+      "per_minute_rate_usd": 0,
+      "min_fare_usd": 1.2,
+      "category_surge_multiplier": 1,
+      "driver_commission_percent": 18,
+      "cancellation_fee_usd": 0,
+      "max_passengers": 4
+    }
+  ],
+  "coupons_and_promos": [
+    {
+      "id": "promo_01",
+      "code": "HARGEISA2026",
+      "discount_percent": 20,
+      "flat_discount_usd": null,
+      "description": "20% off your next ride in Hargeisa",
+      "min_fare_usd": 1,
+      "is_active": 1,
+      "times_used": 124
+    },
+    {
+      "id": "promo_02",
+      "code": "WADAAGE50",
+      "discount_percent": 50,
+      "flat_discount_usd": null,
+      "description": "50% off first Wadaage Share ride",
+      "min_fare_usd": 0.5,
+      "is_active": 1,
+      "times_used": 89
+    }
+  ],
+  "support_tickets": [],
+  "emergency_sos_incidents": [],
+  "fraud_and_security_logs": [],
+  "vehicle_health_and_inspections": [],
+  "driver_quests_and_bonuses": [],
+  "commute_subscriptions": [],
+  "system_settings": [
+    {
+      "setting_key": "app_name",
+      "setting_value": "Wadaage Mobility Somaliland"
+    },
+    {
+      "setting_key": "default_city",
+      "setting_value": "Hargeisa"
+    },
+    {
+      "setting_key": "exchange_rate_usd_slsh",
+      "setting_value": "11250.00"
+    },
+    {
+      "setting_key": "zaad_merchant_id",
+      "setting_value": "ZAAD-HARGEISA-8849"
+    },
+    {
+      "setting_key": "edahab_merchant_id",
+      "setting_value": "EDAHAB-SOM-3392"
+    },
+    {
+      "setting_key": "sahal_merchant_id",
+      "setting_value": "SAHAL-GOLIS-1102"
+    },
+    {
+      "setting_key": "min_driver_wallet_balance_usd",
+      "setting_value": "0.20"
+    },
+    {
+      "setting_key": "default_driver_commission_fee_usd",
+      "setting_value": "0.10"
+    }
+  ]
+}

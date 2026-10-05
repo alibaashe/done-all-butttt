@@ -1,0 +1,3350 @@
+[
+  {
+    "osm_id": 1104353781,
+    "name": "Idp Camp",
+    "category": "Hotels & Hospitality",
+    "specific_type": "caravan_site",
+    "lat": 9.54939,
+    "lng": 44.06037,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1104353811,
+    "name": "Ambassador Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.52229,
+    "lng": 44.07288,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1104353905,
+    "name": "Id Camp",
+    "category": "Hotels & Hospitality",
+    "specific_type": "caravan_site",
+    "lat": 9.53444,
+    "lng": 44.04082,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1138799241,
+    "name": "Oriental Hotel فندق أورينتال",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.5623,
+    "lng": 44.06794,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1138799309,
+    "name": "Imperial Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.55804,
+    "lng": 44.05099,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1138799338,
+    "name": "War Memorial (MIG)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "attraction",
+    "lat": 9.56146,
+    "lng": 44.06541,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 2373721802,
+    "name": "Siraaj",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56052,
+    "lng": 44.07173,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 2866183977,
+    "name": "Museum متحف",
+    "category": "Hotels & Hospitality",
+    "specific_type": "museum",
+    "lat": 9.56219,
+    "lng": 44.07263,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3201169322,
+    "name": "Mount Royel Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.57379,
+    "lng": 44.01316,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3201173249,
+    "name": "Maansoor Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.575,
+    "lng": 44.03278,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3202885992,
+    "name": "Safaari Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.563,
+    "lng": 44.03623,
+    "district": "Jigjiga yar Road"
+  },
+  {
+    "osm_id": 3586340689,
+    "name": "Golden Tourist Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56123,
+    "lng": 44.08834,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3590162057,
+    "name": "City Centre مركز المدينة",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56086,
+    "lng": 44.06948,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3594055594,
+    "name": "Adam's Inn",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.52521,
+    "lng": 44.07511,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3624604956,
+    "name": "Ramaad Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.5337,
+    "lng": 44.07521,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3624604978,
+    "name": "Scandinavian Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.52984,
+    "lng": 44.07503,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3645112768,
+    "name": "Xarunta Derbi-jiifka",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hostel",
+    "lat": 9.53951,
+    "lng": 44.11358,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4361883690,
+    "name": "telecom kililka",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57762,
+    "lng": 44.07769,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4463135024,
+    "name": "Surad Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56176,
+    "lng": 44.06283,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4463207032,
+    "name": "Bilaal Hotel فندق بيلال",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56338,
+    "lng": 44.06094,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4463794513,
+    "name": "Shaybe Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56679,
+    "lng": 44.03582,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4463838903,
+    "name": "Summertime Appartments",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.5674,
+    "lng": 44.03574,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4463844189,
+    "name": "Sun Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56978,
+    "lng": 44.03549,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4463855555,
+    "name": "Golden Appartments",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.57267,
+    "lng": 44.0353,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542602590,
+    "name": "jimicsi",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57066,
+    "lng": 44.04283,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542689190,
+    "name": "tec power plant3",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.51798,
+    "lng": 44.11187,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542696289,
+    "name": "t power plant tes 1",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.51164,
+    "lng": 44.12675,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542715889,
+    "name": "tec power plant tes2",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.51348,
+    "lng": 44.11758,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542716190,
+    "name": "tpower plant muuse",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.52258,
+    "lng": 44.12818,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542766391,
+    "name": "tec power plant jamaal",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.52547,
+    "lng": 44.10638,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542766392,
+    "name": "tplant m.mooge rd",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.53452,
+    "lng": 44.10434,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542766491,
+    "name": "tec power plant karashar2",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55191,
+    "lng": 44.10267,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542812894,
+    "name": "tec power plant shirawqle sub",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56125,
+    "lng": 44.10062,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542897889,
+    "name": "tec power plant wadada wadnaha shiraaqle",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56242,
+    "lng": 44.10045,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542910589,
+    "name": "T power plant libaan f/stion under ground",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56037,
+    "lng": 44.09055,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542912589,
+    "name": "tec power plant (saldhiga new hargeisa",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56083,
+    "lng": 44.07372,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542912590,
+    "name": "buurta kala",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.58597,
+    "lng": 44.00414,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542916089,
+    "name": "T power plant 2",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.5575,
+    "lng": 44.07575,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4542937290,
+    "name": "ttttt",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.59111,
+    "lng": 44.03668,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4543006307,
+    "name": "tec power plant (sheekh madar)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56425,
+    "lng": 44.07056,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4543259689,
+    "name": "tec power plant ( if iyo aakhiro )",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57905,
+    "lng": 44.04738,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4543360489,
+    "name": "tt power plant ff",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.51921,
+    "lng": 44.09988,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4543360589,
+    "name": "TT power plant ff",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.50551,
+    "lng": 44.10127,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4543360689,
+    "name": "tt power plant ff",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.5307,
+    "lng": 44.12082,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565218897,
+    "name": "tec power plant ( jirde para)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56088,
+    "lng": 44.06119,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565218898,
+    "name": "tec power plant masque dirir",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56075,
+    "lng": 44.06388,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565218899,
+    "name": "tec power plant buubaa bacadlaha",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56032,
+    "lng": 44.06757,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565218995,
+    "name": "tec power plant badri",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56051,
+    "lng": 44.06263,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565218997,
+    "name": "tec power plant maayar;tec power kaliil",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55524,
+    "lng": 44.0747,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565218998,
+    "name": "tec power plant saba xareed",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55152,
+    "lng": 44.07593,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565218999,
+    "name": "tec power plant telesom star",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.53755,
+    "lng": 44.07534,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565219000,
+    "name": "tec saylada",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55224,
+    "lng": 44.08011,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565219001,
+    "name": "tec tibiida",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55837,
+    "lng": 44.05509,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565219002,
+    "name": "tec shacabka telesom",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.5571,
+    "lng": 44.05362,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565219006,
+    "name": "tec telesom xarunta",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57182,
+    "lng": 44.0361,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565219008,
+    "name": "tec bada cas1",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55757,
+    "lng": 44.03639,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565246991,
+    "name": "tec power plant ( geeska africa )",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56082,
+    "lng": 44.06186,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565246992,
+    "name": "tec power plant (hos dhiqle)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56081,
+    "lng": 44.06253,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565246996,
+    "name": "tec power plant al khaliij",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54021,
+    "lng": 44.07631,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565246997,
+    "name": "tec power aloore masjid",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54003,
+    "lng": 44.07544,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565246998,
+    "name": "tec xanaano m.mooge",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54174,
+    "lng": 44.08934,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565246999,
+    "name": "tec hooyo kaab",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54014,
+    "lng": 44.09191,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565247001,
+    "name": "tec komishan",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55773,
+    "lng": 44.0498,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565274891,
+    "name": "tec power plant khudrada",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.5599,
+    "lng": 44.06799,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565274892,
+    "name": "tec power plant hq 1",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55877,
+    "lng": 44.06874,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565274893,
+    "name": "tec pawer plant manhal masjid",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54473,
+    "lng": 44.07744,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565274894,
+    "name": "tec new masjid",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54286,
+    "lng": 44.10242,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565274895,
+    "name": "tec Dal dhis",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.53597,
+    "lng": 44.09295,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565274896,
+    "name": "tec goolada state house",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55781,
+    "lng": 44.04614,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565274897,
+    "name": "tec salaam health",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57252,
+    "lng": 44.04245,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565274991,
+    "name": "tec power plant saldhiga dhexe",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56076,
+    "lng": 44.0646,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565275091,
+    "name": "tec xulubxulub",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55512,
+    "lng": 44.07478,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565275092,
+    "name": "tec power plant isgoys",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54463,
+    "lng": 44.07778,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565275093,
+    "name": "tec power plant muruq liqe",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54014,
+    "lng": 44.0779,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565275094,
+    "name": "tec power plant star wado",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.53693,
+    "lng": 44.07497,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565275095,
+    "name": "maxkamada",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55802,
+    "lng": 44.05687,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565275100,
+    "name": "tec power plant beerta xoriyada",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55935,
+    "lng": 44.05839,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565289790,
+    "name": "tec power plant dab damiska(doox)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56006,
+    "lng": 44.05959,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565289792,
+    "name": "tec power plant xamarta",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55487,
+    "lng": 44.07486,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565289793,
+    "name": "tec power plant star masjid",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.53756,
+    "lng": 44.07498,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565289794,
+    "name": "tec guriga digtoorka",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54291,
+    "lng": 44.08917,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565289795,
+    "name": "tec masjid",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54344,
+    "lng": 44.0911,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565291789,
+    "name": "tec power plant womens club",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56102,
+    "lng": 44.06175,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565291792,
+    "name": "tec power plant bayle",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56054,
+    "lng": 44.06474,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565295289,
+    "name": "tec power g/ciise",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55689,
+    "lng": 44.0751,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565295290,
+    "name": "TELESOM &SALAAMA BANK SABA~XAREED",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55129,
+    "lng": 44.07601,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565295291,
+    "name": "tec power star",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.53688,
+    "lng": 44.07548,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565295292,
+    "name": "tec sanyare mators",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56108,
+    "lng": 44.05785,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565295293,
+    "name": "tec udub",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55811,
+    "lng": 44.05416,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565295294,
+    "name": "tec is goyska guuled hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.5643,
+    "lng": 44.04352,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565295295,
+    "name": "masjidu salaam",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57118,
+    "lng": 44.04273,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565295296,
+    "name": "tec ban jarle",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57248,
+    "lng": 44.04737,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565295298,
+    "name": "Fooqa Bis",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56186,
+    "lng": 44.06669,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565297089,
+    "name": "tec cid",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55951,
+    "lng": 44.04905,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565297090,
+    "name": "tec power plant ( soltelco)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56089,
+    "lng": 44.05789,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565297389,
+    "name": "tec goolada telesom jjy",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57176,
+    "lng": 44.03664,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4565297390,
+    "name": "tec jameeco weyn",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56903,
+    "lng": 44.04747,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4590092118,
+    "name": "Jijiga jar",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.56857,
+    "lng": 44.03102,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4675975589,
+    "name": "Mnesta home",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.5686,
+    "lng": 44.03928,
+    "district": "Jigjiga yar Road"
+  },
+  {
+    "osm_id": 4738305323,
+    "name": "Jagada MX Xaddi",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.60233,
+    "lng": 43.99562,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4758253322,
+    "name": "Guriga jacaylka",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56349,
+    "lng": 44.02633,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4796291121,
+    "name": "Sun Hotel Apartment",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56918,
+    "lng": 44.03551,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4797282321,
+    "name": "Mm Hassan",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.57458,
+    "lng": 44.04164,
+    "district": "Hero Awr Road"
+  },
+  {
+    "osm_id": 4798593821,
+    "name": "Mnesta House",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.5698,
+    "lng": 44.03466,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4806268822,
+    "name": "Gargaar",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56161,
+    "lng": 44.06275,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4843195022,
+    "name": "Isha borama",
+    "category": "Hotels & Hospitality",
+    "specific_type": "artwork",
+    "lat": 9.5391,
+    "lng": 44.05191,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4844254921,
+    "name": "Nasiye hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.54088,
+    "lng": 44.05166,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4876188522,
+    "name": "Durdur Business Center",
+    "category": "Hotels & Hospitality",
+    "specific_type": "attraction",
+    "lat": 9.56156,
+    "lng": 44.05905,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4876188523,
+    "name": "Deero Mall",
+    "category": "Hotels & Hospitality",
+    "specific_type": "attraction",
+    "lat": 9.56152,
+    "lng": 44.05835,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4901758421,
+    "name": "Damal Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.5621,
+    "lng": 44.0648,
+    "district": "Road Nr. One"
+  },
+  {
+    "osm_id": 4959549623,
+    "name": "Saryan Museum",
+    "category": "Hotels & Hospitality",
+    "specific_type": "museum",
+    "lat": 9.56358,
+    "lng": 44.04915,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4977204023,
+    "name": "TLS 529751",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55312,
+    "lng": 44.07524,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4977204523,
+    "name": "TLS 526622",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55602,
+    "lng": 44.07596,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4979412522,
+    "name": "538512 maryan nuur",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.5763,
+    "lng": 44.04978,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4979412821,
+    "name": "538468 khadra maxamed",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.58572,
+    "lng": 44.05245,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4979412822,
+    "name": "534214 cali xuseen",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.58268,
+    "lng": 44.04914,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4986330524,
+    "name": "534795 al mahdi electron",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57576,
+    "lng": 44.06232,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4986330626,
+    "name": "538057 SAAMIYA XASAN",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.58315,
+    "lng": 44.05307,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4991051840,
+    "name": "Bacado Hotel and Restaurant",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56241,
+    "lng": 44.05321,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4995162922,
+    "name": "521031 LIBAAN STORE",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56195,
+    "lng": 44.0663,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4995169325,
+    "name": "521031 LIBAAN STORE SAX",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56178,
+    "lng": 44.06639,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4995169326,
+    "name": "TLS 511046",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56345,
+    "lng": 44.07005,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4995218722,
+    "name": "TLS 524154 BADAR HOTEL",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56383,
+    "lng": 44.07615,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4995376321,
+    "name": "540667",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56567,
+    "lng": 44.08407,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4995376422,
+    "name": "533455",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57425,
+    "lng": 44.06184,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4997754023,
+    "name": "572614",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56194,
+    "lng": 44.0413,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5005267025,
+    "name": "نقطه تفتيش الغربية",
+    "category": "Hotels & Hospitality",
+    "specific_type": "police",
+    "lat": 9.58999,
+    "lng": 43.97558,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5005267224,
+    "name": "561193",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54265,
+    "lng": 44.07221,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5005267323,
+    "name": "564201",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54532,
+    "lng": 44.08355,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5101660323,
+    "name": "twin towers of hodon hills",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.56747,
+    "lng": 44.10419,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5130968324,
+    "name": "521836 caasha",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56869,
+    "lng": 44.06824,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5130979824,
+    "name": "world concern",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.52082,
+    "lng": 44.06984,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5130979825,
+    "name": "wasaarada m/cashuraha bariga",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56124,
+    "lng": 44.04885,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5131006521,
+    "name": "523345",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55476,
+    "lng": 44.04295,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5171270528,
+    "name": "520288/520291 Color zone",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.562,
+    "lng": 44.05881,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5171320323,
+    "name": "513257 barwaaqo",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57003,
+    "lng": 44.06471,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5339815621,
+    "name": "Gurige Cabdiqadir Barre",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.55388,
+    "lng": 44.06459,
+    "district": "Axmed Guure"
+  },
+  {
+    "osm_id": 5435777222,
+    "name": "Guriga Biciid",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54781,
+    "lng": 44.06461,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5395959821,
+    "name": "Maamuus",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56024,
+    "lng": 44.0877,
+    "district": "Road Number 1 / طريق رقم ١"
+  },
+  {
+    "osm_id": 5395959822,
+    "name": "Sayladah Camel marked",
+    "category": "Hotels & Hospitality",
+    "specific_type": "attraction",
+    "lat": 9.55258,
+    "lng": 44.08051,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5583440430,
+    "name": "البيت هرجيسا",
+    "category": "Hotels & Hospitality",
+    "specific_type": "caravan_site",
+    "lat": 9.56689,
+    "lng": 44.04789,
+    "district": "Swayne Drive"
+  },
+  {
+    "osm_id": 5635815923,
+    "name": "Sagal Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.57528,
+    "lng": 44.06248,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5676175921,
+    "name": "Garaad Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56212,
+    "lng": 44.07639,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5676176121,
+    "name": "Barwaaqo2 Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56238,
+    "lng": 44.07853,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5704010423,
+    "name": "Apartments house hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.55973,
+    "lng": 44.08817,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5745380821,
+    "name": "Guriga iid",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.57391,
+    "lng": 44.02023,
+    "district": "JIDKA 150 KA"
+  },
+  {
+    "osm_id": 5857136185,
+    "name": "فندق",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56184,
+    "lng": 44.08671,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6077788783,
+    "name": "sompower new Hargeisa 0634220248",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.5621,
+    "lng": 44.07685,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6077788921,
+    "name": "sompower axmed cali 0634220248",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54981,
+    "lng": 44.07494,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6077788923,
+    "name": "sompower xarunta suuqa 0634220248",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56483,
+    "lng": 44.06915,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6078094185,
+    "name": "564145",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54275,
+    "lng": 44.07932,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6078094285,
+    "name": "Som powe isha Borama 0634220248",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54653,
+    "lng": 44.05035,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6078445885,
+    "name": "TAYO PLASTIC FACTORY (ENG:SHIBIIN",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56379,
+    "lng": 44.06921,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6086375685,
+    "name": "Iid daalibaan House (eng shibiin)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.59183,
+    "lng": 44.04968,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6113035988,
+    "name": "tls internet ( Isra)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56244,
+    "lng": 44.12322,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6149599785,
+    "name": "فندق بطان",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.55529,
+    "lng": 44.06877,
+    "district": "Airport Road طريق المطار"
+  },
+  {
+    "osm_id": 6171102187,
+    "name": "Mansoor Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.57537,
+    "lng": 44.03148,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6234754185,
+    "name": "nour madadal",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.54002,
+    "lng": 44.04716,
+    "district": "ahmed Dhere street"
+  },
+  {
+    "osm_id": 6288249185,
+    "name": "tls Tawer",
+    "category": "Hotels & Hospitality",
+    "specific_type": "artwork",
+    "lat": 9.58831,
+    "lng": 44.17035,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6342819493,
+    "name": "yooca",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.57321,
+    "lng": 44.02354,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6356605385,
+    "name": "guriga muuse",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.58387,
+    "lng": 44.02245,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6422872985,
+    "name": "tls internet 560968 (340)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54914,
+    "lng": 44.07672,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6422936791,
+    "name": "tls internet 565498(400)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55071,
+    "lng": 44.06967,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6468318785,
+    "name": "tls 566097",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54978,
+    "lng": 44.07248,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6485249885,
+    "name": "ASTAAN CABLE TV",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56049,
+    "lng": 44.03594,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6504639585,
+    "name": "Suldaanka house",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.57372,
+    "lng": 44.05164,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6507897385,
+    "name": "tls point shabeel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56665,
+    "lng": 44.01301,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6517624285,
+    "name": "TAAJ MASALAHA",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.52155,
+    "lng": 44.07543,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6574041585,
+    "name": "tls 564423",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.53607,
+    "lng": 44.10282,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6584544085,
+    "name": "faahiye house",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.57851,
+    "lng": 44.04078,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6585727385,
+    "name": "tls 526681",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55435,
+    "lng": 44.0734,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6595770286,
+    "name": "tls 526152",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55461,
+    "lng": 44.07063,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6598160585,
+    "name": "tls 565918",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.5451,
+    "lng": 44.06316,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6601797386,
+    "name": "tls 515768 (452389)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.557,
+    "lng": 44.06577,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6602295190,
+    "name": "faahiye house",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.58043,
+    "lng": 44.03963,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6645982611,
+    "name": "DHola-Yare Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56418,
+    "lng": 44.06027,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6683021585,
+    "name": "tls 529049",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55609,
+    "lng": 44.07051,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6683025885,
+    "name": "tls Tawer Qunyar daga",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.59843,
+    "lng": 44.05196,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6693547785,
+    "name": "Ahmed Yonis Guest House",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.57205,
+    "lng": 44.04569,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6726460886,
+    "name": "حاج يوسف طاهر",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.54219,
+    "lng": 44.0642,
+    "district": "Siinay Road"
+  },
+  {
+    "osm_id": 6744098488,
+    "name": "tls poin to poin",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.58302,
+    "lng": 44.01645,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6763291385,
+    "name": "TLS 529302",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55418,
+    "lng": 44.0773,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6784962285,
+    "name": "TLS 517470",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.57777,
+    "lng": 44.04759,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6787615885,
+    "name": "TLS 567047",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.51884,
+    "lng": 44.06713,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6787692089,
+    "name": "TLS 565881",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54308,
+    "lng": 44.06091,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6787764586,
+    "name": "TLS 561161",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.54831,
+    "lng": 44.06461,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6796366886,
+    "name": "TLS POINT TO POINT",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.52176,
+    "lng": 44.06888,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6825006685,
+    "name": "TLS jameeco WEYN",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.5635,
+    "lng": 44.06596,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6832035888,
+    "name": "Guriga cusub en jeexnay",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.56443,
+    "lng": 44.0083,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6834062696,
+    "name": "Tawakal Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56149,
+    "lng": 44.06286,
+    "district": "Road Number 1 / طريق رقم 1"
+  },
+  {
+    "osm_id": 6901831288,
+    "name": "TLS POINT POINTS",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.53211,
+    "lng": 44.10394,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6942452085,
+    "name": "aloore guess house",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.52276,
+    "lng": 44.07579,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6970276485,
+    "name": "Ina Af-Diinle Apartments",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.51762,
+    "lng": 44.07401,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 7252873985,
+    "name": "Sugaal Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.55997,
+    "lng": 44.0621,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8040586785,
+    "name": "Malwaal",
+    "category": "Hotels & Hospitality",
+    "specific_type": "alpine_hut",
+    "lat": 9.56593,
+    "lng": 43.96797,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8152038617,
+    "name": "SKY MOTORES",
+    "category": "Hotels & Hospitality",
+    "specific_type": "attraction",
+    "lat": 9.56142,
+    "lng": 44.09667,
+    "district": "Road Number 1 / طريق رقم 1"
+  },
+  {
+    "osm_id": 8254657517,
+    "name": "Magan Residence",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.56453,
+    "lng": 44.12163,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8330025518,
+    "name": "Mango Garden",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.55616,
+    "lng": 44.05332,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8330176817,
+    "name": "ASSOD Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56281,
+    "lng": 44.04685,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8447952317,
+    "name": "احمد ضاض فيلا",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.53784,
+    "lng": 44.05761,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8447952318,
+    "name": "East of Africa Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.55533,
+    "lng": 44.0687,
+    "district": "طريق المطار"
+  },
+  {
+    "osm_id": 8447952417,
+    "name": "ضاض",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.53803,
+    "lng": 44.05804,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8933888117,
+    "name": "majlis",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.57379,
+    "lng": 44.05305,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9604296717,
+    "name": "HOTEL AIDED",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.55056,
+    "lng": 44.0659,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9959444321,
+    "name": "Tls pp kaab school",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.58219,
+    "lng": 44.0268,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9959444326,
+    "name": "Gudoomiye Maxamuud 1",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.59676,
+    "lng": 44.00005,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9959463619,
+    "name": "Warsan relief",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.51586,
+    "lng": 44.07483,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9959463724,
+    "name": "Maxamuud xaji",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.59955,
+    "lng": 43.99957,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9959463725,
+    "name": "Sheekh macruuf roud",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.58689,
+    "lng": 44.04997,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9959463819,
+    "name": "Caawiye GPS",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56167,
+    "lng": 44.06935,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9959464018,
+    "name": "Barakaca",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.61381,
+    "lng": 44.10655,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9959464019,
+    "name": "Nagiib 3",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.59248,
+    "lng": 44.08279,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9959464121,
+    "name": "Gudoomiye maxamuud 2baloodh",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.60109,
+    "lng": 44.00763,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9970557667,
+    "name": "Ťauxărnaićă",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55845,
+    "lng": 44.0588,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9970580393,
+    "name": "Jaromar",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55822,
+    "lng": 44.05858,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9970580394,
+    "name": "POLABIJĂ",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.55876,
+    "lng": 44.05882,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 10942474507,
+    "name": "wado Maxamuud Cumar",
+    "category": "Hotels & Hospitality",
+    "specific_type": "guest_house",
+    "lat": 9.61219,
+    "lng": 44.02707,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 10998229605,
+    "name": "nagiib's home",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.5739,
+    "lng": 44.05335,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 11041838905,
+    "name": "Bootoday ilma cali cumar",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.60654,
+    "lng": 44.02859,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 11663044236,
+    "name": "Beder Hotel Hargeisa",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56216,
+    "lng": 44.06057,
+    "district": "Timo Cadde Road"
+  },
+  {
+    "osm_id": 12701988601,
+    "name": "Shiine Farta",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.59043,
+    "lng": 44.12016,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 13787014903,
+    "name": "gadiid bila",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.59916,
+    "lng": 44.02933,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 13787014905,
+    "name": "hema books",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.56381,
+    "lng": 44.0608,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 13787018202,
+    "name": "MASAAJIDKA SHIBIIN",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.58676,
+    "lng": 44.07712,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 13787018401,
+    "name": "HALEELO TOWER",
+    "category": "Hotels & Hospitality",
+    "specific_type": "apartment",
+    "lat": 9.56267,
+    "lng": 44.05903,
+    "district": "Gollis Road"
+  },
+  {
+    "osm_id": 13895972601,
+    "name": "ina cabdi raxmaan gurigeeda",
+    "category": "Hotels & Hospitality",
+    "specific_type": "viewpoint",
+    "lat": 9.58552,
+    "lng": 44.01843,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 202439612,
+    "name": "Pradise Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.5604,
+    "lng": 44.06239,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 228964321,
+    "name": "Nuh Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56284,
+    "lng": 44.07878,
+    "district": "Road Number One"
+  },
+  {
+    "osm_id": 305188214,
+    "name": "Maan Soor Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.5755,
+    "lng": 44.03167,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 365346748,
+    "name": "Xamdi Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56174,
+    "lng": 44.09729,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4595635191,
+    "name": "Abokor artan",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "dentist",
+    "lat": 9.57718,
+    "lng": 44.06192,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4997437522,
+    "name": "p/p GARGAAR HOSPITAL",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.55966,
+    "lng": 44.06208,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 5954605612,
+    "name": "Hargeisa Care Clinic",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "clinic",
+    "lat": 9.54241,
+    "lng": 44.05111,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6503396585,
+    "name": "MSF Somalia",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "clinic",
+    "lat": 9.52199,
+    "lng": 44.06848,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8929222545,
+    "name": "Birjeex Militery Hospital",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.55104,
+    "lng": 44.0554,
+    "district": "Birjeex Street"
+  },
+  {
+    "osm_id": 8929222551,
+    "name": "Daryeel Phermecy",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "pharmacy",
+    "lat": 9.53991,
+    "lng": 44.05843,
+    "district": "Xaashi Kabadoon Street"
+  },
+  {
+    "osm_id": 9277213643,
+    "name": "Bukhan  Pharmacy",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "pharmacy",
+    "lat": 9.54057,
+    "lng": 44.09523,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9277214018,
+    "name": "Nairobi  Pharmacy",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "pharmacy",
+    "lat": 9.54056,
+    "lng": 44.08377,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9277218363,
+    "name": "Muhuran Pharmacy",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "pharmacy",
+    "lat": 9.53961,
+    "lng": 44.09139,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9277226733,
+    "name": "Kulaan  Pharmacy",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "pharmacy",
+    "lat": 9.53987,
+    "lng": 44.08981,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9277228841,
+    "name": "Saacid  Pharmacy",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "pharmacy",
+    "lat": 9.54104,
+    "lng": 44.09743,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 305183550,
+    "name": "Adna Adan hospital",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.55119,
+    "lng": 44.06685,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 357089660,
+    "name": "المستشف الدولى",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "clinic",
+    "lat": 9.52887,
+    "lng": 44.07492,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 430366600,
+    "name": "International Hospital المستشفى الدولي",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.52882,
+    "lng": 44.07507,
+    "district": "Airport Road"
+  },
+  {
+    "osm_id": 449347606,
+    "name": "Gargaar Multi specialty Hospital",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.55973,
+    "lng": 44.06182,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 791242083,
+    "name": "Dhakhtarka Adna مستشفى أدنا آدن",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.55106,
+    "lng": 44.06684,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 791244577,
+    "name": "Kaah medical centre",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.56456,
+    "lng": 44.06006,
+    "district": "Goljano Road"
+  },
+  {
+    "osm_id": 791245129,
+    "name": "Haldoor Hospital",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.5658,
+    "lng": 44.06097,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 791249655,
+    "name": "Disabled people hospital",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.56012,
+    "lng": 44.0554,
+    "district": "Road Number 1 / طريق رقم 1"
+  },
+  {
+    "osm_id": 965340306,
+    "name": "Adna Adan Maternity Hospital",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.55104,
+    "lng": 44.06684,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1462275345,
+    "name": "Naaso Hablood Hospital",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.57696,
+    "lng": 44.12482,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 2794110273,
+    "name": "biyo dhacay school",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.57183,
+    "lng": 44.06317,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3574051004,
+    "name": "Al-Irshad secondary school",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.52498,
+    "lng": 44.07982,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3645086673,
+    "name": "MMooge School",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.5373,
+    "lng": 44.09315,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4463299375,
+    "name": "Dugsiga Hoose/dhexe ee Sheekh Madar",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.56224,
+    "lng": 44.04986,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4463540846,
+    "name": "Dugsiga Hoose/dhexe ee 31 May",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.56428,
+    "lng": 44.03905,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4596847498,
+    "name": "Talasan",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.57378,
+    "lng": 44.03592,
+    "district": "Hero Awr Road"
+  },
+  {
+    "osm_id": 4702315995,
+    "name": "admas university",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.57752,
+    "lng": 44.02831,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4804125423,
+    "name": "Bilaal Collage",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.54314,
+    "lng": 44.05907,
+    "district": "Hugur Street"
+  },
+  {
+    "osm_id": 5367492021,
+    "name": "الهدى",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.54297,
+    "lng": 44.06594,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6342541287,
+    "name": "AGOOMAHA ALMANAAR",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.56369,
+    "lng": 44.11649,
+    "district": "Road Number 1 / طريق رقم 1"
+  },
+  {
+    "osm_id": 8197045217,
+    "name": "BIHI COLLEGE",
+    "category": "Universities & Education",
+    "specific_type": "college",
+    "lat": 9.56146,
+    "lng": 44.06733,
+    "district": "Road Number 1 / طريق رقم 1"
+  },
+  {
+    "osm_id": 8929222535,
+    "name": "Malcamada Daar Al Hikma",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.54336,
+    "lng": 44.05659,
+    "district": "masjid rashiid street"
+  },
+  {
+    "osm_id": 8929222536,
+    "name": "Dayib Guray Secondry school",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.54911,
+    "lng": 44.05271,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8929222537,
+    "name": "Alifdoon Preimery School",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.55051,
+    "lng": 44.05325,
+    "district": "Birjeex Street"
+  },
+  {
+    "osm_id": 8930352342,
+    "name": "Xalane School",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.55291,
+    "lng": 44.06689,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8930352343,
+    "name": "Quule Aadan S.School",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.55379,
+    "lng": 44.06676,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 11263937169,
+    "name": "Ileys Secondary School 1",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.57055,
+    "lng": 44.00885,
+    "district": "Ileys S.School 1"
+  },
+  {
+    "osm_id": 12533533302,
+    "name": "Al-Huda Org",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.49625,
+    "lng": 44.06515,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 202439604,
+    "name": "Dugsiga Biyo Dhacay Sare",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.57152,
+    "lng": 44.06283,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 305183548,
+    "name": "Janan Daauud School",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.5502,
+    "lng": 44.06532,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 305185797,
+    "name": "Cismaan binu Cafaan Secondery School",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.54844,
+    "lng": 44.06144,
+    "district": "faarax nuur street"
+  },
+  {
+    "osm_id": 305185803,
+    "name": "Cismaan binu Cafaan primery school",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.54823,
+    "lng": 44.06145,
+    "district": "faarax nuur street"
+  },
+  {
+    "osm_id": 449354047,
+    "name": "Farah Omaar Secondary School",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.55559,
+    "lng": 44.05233,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 449354369,
+    "name": "University of Hargeisa",
+    "category": "Universities & Education",
+    "specific_type": "university",
+    "lat": 9.54635,
+    "lng": 44.04693,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 798770515,
+    "name": "Gollis University",
+    "category": "Universities & Education",
+    "specific_type": "university",
+    "lat": 9.56215,
+    "lng": 44.03865,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 798783193,
+    "name": "Islamic Online University",
+    "category": "Universities & Education",
+    "specific_type": "university",
+    "lat": 9.56306,
+    "lng": 44.06065,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1391629523,
+    "name": "Noradin Primary School",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.57481,
+    "lng": 44.05767,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1104353958,
+    "name": "Fuel Stop (Daalo)",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.56169,
+    "lng": 44.06442,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1138798640,
+    "name": "Jano Gaaban Fuel-station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.56214,
+    "lng": 44.03595,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1138798728,
+    "name": "Kaah Fuel Stations",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.56071,
+    "lng": 44.11581,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1138798736,
+    "name": "Barwaaqo Fuel-station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.56575,
+    "lng": 44.02917,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1138799024,
+    "name": "Tawakal Fuel Station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.56452,
+    "lng": 44.04275,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1138799116,
+    "name": "National Fuel-station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.5631,
+    "lng": 44.03322,
+    "district": "Jigjiga Yar Road"
+  },
+  {
+    "osm_id": 1138799180,
+    "name": "Kaalenta shidaal ee ayaan",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.56182,
+    "lng": 44.0634,
+    "district": "Road Number 1"
+  },
+  {
+    "osm_id": 1138799283,
+    "name": "Boqoljire Fuel-station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.56942,
+    "lng": 44.02041,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1138799352,
+    "name": "Total توتال",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.56004,
+    "lng": 44.04718,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3201166289,
+    "name": "Gaafane F-staton & Ekectricity",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.57146,
+    "lng": 44.01752,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 3201174943,
+    "name": "HASS Fuel-station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.56522,
+    "lng": 44.03016,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4463857548,
+    "name": "Total Fuel Station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.57343,
+    "lng": 44.03513,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4590096108,
+    "name": "Unigas",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.56538,
+    "lng": 44.06058,
+    "district": "Togdheer Road"
+  },
+  {
+    "osm_id": 4803797224,
+    "name": "Qalad",
+    "category": "Transit & Services",
+    "specific_type": "bus_stop",
+    "lat": 9.54736,
+    "lng": 44.05914,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4804138021,
+    "name": "Isgoyska badhka",
+    "category": "Transit & Services",
+    "specific_type": "bus_stop",
+    "lat": 9.53941,
+    "lng": 44.06006,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6016412319,
+    "name": "Isleg Fuel station and super market",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.58172,
+    "lng": 44.0622,
+    "district": "Jidka 150 Ka"
+  },
+  {
+    "osm_id": 6200580786,
+    "name": "Bidhaan Fuel Station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.54571,
+    "lng": 44.07488,
+    "district": "Airport Road طريق المطار"
+  },
+  {
+    "osm_id": 6234813885,
+    "name": "isha borama bus stop",
+    "category": "Transit & Services",
+    "specific_type": "bus_stop",
+    "lat": 9.54234,
+    "lng": 44.05125,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 6264216385,
+    "name": "hass masala fuel staion",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.51876,
+    "lng": 44.07643,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8398109717,
+    "name": "Burleeg Bus Stop",
+    "category": "Transit & Services",
+    "specific_type": "bus_stop",
+    "lat": 9.53997,
+    "lng": 44.05804,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 8930523869,
+    "name": "Al Nuurayn Fuel station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.54691,
+    "lng": 44.05862,
+    "district": "Faarax Nuur Street"
+  },
+  {
+    "osm_id": 9277179890,
+    "name": "Alibaarjeex  Fuel Station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.54145,
+    "lng": 44.08724,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9277195533,
+    "name": "Star Fuel Station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.53664,
+    "lng": 44.076,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 9775169934,
+    "name": "Brothers fuel station 2",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.57953,
+    "lng": 44.0495,
+    "district": "150 street"
+  },
+  {
+    "osm_id": 9959463818,
+    "name": "Gurey fuel station",
+    "category": "Transit & Services",
+    "specific_type": "fuel",
+    "lat": 9.5778,
+    "lng": 44.0773,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 363947528,
+    "name": "Guleed Hotel Close",
+    "category": "Hotels & Hospitality",
+    "specific_type": "service",
+    "lat": 9.56334,
+    "lng": 44.04229,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 305188214,
+    "name": "Maan Soor Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.57552,
+    "lng": 44.03159,
+    "district": "Jigjiga Yar"
+  },
+  {
+    "osm_id": 908883778,
+    "name": "Dahabshiil Bank / Damal Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "commercial",
+    "lat": 9.56194,
+    "lng": 44.0648,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 1557631512,
+    "name": "Oriental Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56224,
+    "lng": 44.06791,
+    "district": "Sheekh Madar الشيخ مدر"
+  },
+  {
+    "osm_id": 906822942,
+    "name": "Beder Hotel",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.56212,
+    "lng": 44.06057,
+    "district": "Almis"
+  },
+  {
+    "osm_id": 6289232385,
+    "name": "XAWAALADA TAAJ (safari hotel)",
+    "category": "Hotels & Hospitality",
+    "specific_type": "bank",
+    "lat": 9.56271,
+    "lng": 44.03625,
+    "district": "Guul Ala"
+  },
+  {
+    "osm_id": 4715776189,
+    "name": "مطعم وفندق هاروناچ",
+    "category": "Hotels & Hospitality",
+    "specific_type": "restaurant",
+    "lat": 9.55827,
+    "lng": 44.06704,
+    "district": "Sheekh Madar الشيخ مدر"
+  },
+  {
+    "osm_id": 1545263730,
+    "name": "Serene Sarovar Premiere Hargeisa",
+    "category": "Hotels & Hospitality",
+    "specific_type": "hotel",
+    "lat": 9.52861,
+    "lng": 44.07855,
+    "district": "Jameeco Weyn"
+  },
+  {
+    "osm_id": 1376931543,
+    "name": "Manahl Hospital",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "hospital",
+    "lat": 9.54437,
+    "lng": 44.07693,
+    "district": "Jameeco Weyn"
+  },
+  {
+    "osm_id": 6291085485,
+    "name": "XAWAALADA TAAJ ADNA HOSPITAL",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "bank",
+    "lat": 9.55077,
+    "lng": 44.0668,
+    "district": "Makamed Cali محمد علي"
+  },
+  {
+    "osm_id": 323360602,
+    "name": "طريق المدرسة ١٨ مايو",
+    "category": "Universities & Education",
+    "specific_type": "residential",
+    "lat": 9.56197,
+    "lng": 44.04122,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 1113032500,
+    "name": "Hormuud school",
+    "category": "Universities & Education",
+    "specific_type": "yes",
+    "lat": 9.60126,
+    "lng": 44.02623,
+    "district": "Waraabe Salaan"
+  },
+  {
+    "osm_id": 657719272,
+    "name": "Abaarso School of Science and Technology",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.61512,
+    "lng": 43.87438,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 1376931545,
+    "name": "Hargisa School (Sudani)",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.54307,
+    "lng": 44.07699,
+    "district": "Jameeco Weyn"
+  },
+  {
+    "osm_id": 304929007,
+    "name": "Mahmuud AhmedAli Secondary School",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.54998,
+    "lng": 44.0746,
+    "district": "Burco Duurrey"
+  },
+  {
+    "osm_id": 1376931544,
+    "name": "Hamdan School U.S.E",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.54379,
+    "lng": 44.07699,
+    "district": "Jameeco Weyn"
+  },
+  {
+    "osm_id": 305183596,
+    "name": "Xalane old School",
+    "category": "Universities & Education",
+    "specific_type": "yes",
+    "lat": 9.55256,
+    "lng": 44.06731,
+    "district": "Makamed Cali محمد علي"
+  },
+  {
+    "osm_id": 322742968,
+    "name": "GuriSamo Primary school",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.55649,
+    "lng": 44.07203,
+    "district": "Sheekh Madar الشيخ مدر"
+  },
+  {
+    "osm_id": 3693601592,
+    "name": "Kuweyt Boarding School",
+    "category": "Universities & Education",
+    "specific_type": "school",
+    "lat": 9.56923,
+    "lng": 44.13496,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 587203749,
+    "name": "Gollis University Road",
+    "category": "Universities & Education",
+    "specific_type": "residential",
+    "lat": 9.56105,
+    "lng": 44.03846,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 4692077889,
+    "name": "New generation university collage",
+    "category": "Universities & Education",
+    "specific_type": "library",
+    "lat": 9.57525,
+    "lng": 44.03576,
+    "district": "Guul Ala"
+  },
+  {
+    "osm_id": 4692078289,
+    "name": "New generation university",
+    "category": "Universities & Education",
+    "specific_type": "community_centre",
+    "lat": 9.57529,
+    "lng": 44.03514,
+    "district": "Guul Ala"
+  },
+  {
+    "osm_id": 6293304989,
+    "name": "XAWAALADA TAAJ H.university",
+    "category": "Universities & Education",
+    "specific_type": "bank",
+    "lat": 9.54735,
+    "lng": 44.0477,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 2789918417,
+    "name": "Gollis University",
+    "category": "Universities & Education",
+    "specific_type": "university",
+    "lat": 9.56199,
+    "lng": 44.03816,
+    "district": "Guul Ala"
+  },
+  {
+    "osm_id": 1254584517,
+    "name": "Damal Restaurant Hargeisa",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.56262,
+    "lng": 44.06517,
+    "district": "Sheekh Madar الشيخ مدر"
+  },
+  {
+    "osm_id": 319413613,
+    "name": "Kaah Restaurant",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.56026,
+    "lng": 44.11582,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 850097928,
+    "name": "Nada Restaurant",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.57991,
+    "lng": 44.0336,
+    "district": "Jigjiga Yar"
+  },
+  {
+    "osm_id": 1376931559,
+    "name": "SABAXARED RESTAURANT",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.55126,
+    "lng": 44.07532,
+    "district": "Jameeco Weyn"
+  },
+  {
+    "osm_id": 1104353787,
+    "name": "Camel Restaurant",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.56073,
+    "lng": 44.09014,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 5001908524,
+    "name": "Hiddo Dhawr cultural restaurant",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.55231,
+    "lng": 44.04757,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 3593965256,
+    "name": "Mediterranean Restaurant مطعم متوسطي",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.51866,
+    "lng": 44.07046,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4463847518,
+    "name": "Friendship Ethiopian Restaurant",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.57077,
+    "lng": 44.03514,
+    "district": "Guul Ala"
+  },
+  {
+    "osm_id": 4296105891,
+    "name": "Saba Restaurant",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.56281,
+    "lng": 44.04526,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 3586339621,
+    "name": "Golden Restaurant and Cafe",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.56097,
+    "lng": 44.08831,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 3258263490,
+    "name": "Shiraaqle Restaurant",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.56195,
+    "lng": 44.10089,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 7252873485,
+    "name": "Restaurant yéménite",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.53379,
+    "lng": 44.07569,
+    "district": "Jameeco Weyn"
+  },
+  {
+    "osm_id": 2203587738,
+    "name": "Dalxiis Restaurant",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.55709,
+    "lng": 44.06807,
+    "district": "Sheekh Madar الشيخ مدر"
+  },
+  {
+    "osm_id": 4463545266,
+    "name": "Summertime Restuarent",
+    "category": "Restaurants & Dining",
+    "specific_type": "restaurant",
+    "lat": 9.56181,
+    "lng": 44.03778,
+    "district": "Guul Ala"
+  },
+  {
+    "osm_id": 4463266900,
+    "name": "Peace Cafe مقهى السلام",
+    "category": "Restaurants & Dining",
+    "specific_type": "cafe",
+    "lat": 9.55286,
+    "lng": 44.0484,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 4463849465,
+    "name": "Kings Cafe",
+    "category": "Restaurants & Dining",
+    "specific_type": "cafe",
+    "lat": 9.57273,
+    "lng": 44.03512,
+    "district": "Guul Ala"
+  },
+  {
+    "osm_id": 9277205459,
+    "name": "Kulan Cafe",
+    "category": "Restaurants & Dining",
+    "specific_type": "cafe",
+    "lat": 9.53685,
+    "lng": 44.07731,
+    "district": "Jameeco Weyn"
+  },
+  {
+    "osm_id": 5341078221,
+    "name": "كافيه لاين",
+    "category": "Restaurants & Dining",
+    "specific_type": "cafe",
+    "lat": 9.5623,
+    "lng": 44.0605,
+    "district": "Almis"
+  },
+  {
+    "osm_id": 4874557521,
+    "name": "Premier Bank",
+    "category": "Corporate & Banking",
+    "specific_type": "bank",
+    "lat": 9.56148,
+    "lng": 44.05898,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 4872142625,
+    "name": "Salaam Bank",
+    "category": "Corporate & Banking",
+    "specific_type": "bank",
+    "lat": 9.56122,
+    "lng": 44.06504,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 2376106077,
+    "name": "Central Bank",
+    "category": "Corporate & Banking",
+    "specific_type": "bank",
+    "lat": 9.56184,
+    "lng": 44.06384,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 1138798674,
+    "name": "Bank of Somaliland",
+    "category": "Corporate & Banking",
+    "specific_type": "bank",
+    "lat": 9.56182,
+    "lng": 44.0653,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 6284376986,
+    "name": "XAWAALADA TAAJ new Hargeisa",
+    "category": "Corporate & Banking",
+    "specific_type": "bank",
+    "lat": 9.56236,
+    "lng": 44.08473,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 4715733590,
+    "name": "بنك دهب شيل",
+    "category": "Corporate & Banking",
+    "specific_type": "bank",
+    "lat": 9.56194,
+    "lng": 44.06479,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 369360201,
+    "name": "Shiraaqle Supermarket",
+    "category": "Markets, Malls & Supermarkets",
+    "specific_type": "supermarket",
+    "lat": 9.56057,
+    "lng": 44.11579,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 7810671407,
+    "name": "Indho Birta Supermarket",
+    "category": "Markets, Malls & Supermarkets",
+    "specific_type": "supermarket",
+    "lat": 9.57116,
+    "lng": 44.06189,
+    "district": "Udan"
+  },
+  {
+    "osm_id": 7866354869,
+    "name": "Alloore supermarket & dry-cleaning",
+    "category": "Markets, Malls & Supermarkets",
+    "specific_type": "supermarket",
+    "lat": 9.52368,
+    "lng": 44.07416,
+    "district": "Jameeco Weyn"
+  },
+  {
+    "osm_id": 1544987456,
+    "name": "CIIR Mall",
+    "category": "Markets, Malls & Supermarkets",
+    "specific_type": "mall",
+    "lat": 9.5237,
+    "lng": 44.06407,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 865221281,
+    "name": "Waafi Mall",
+    "category": "Markets, Malls & Supermarkets",
+    "specific_type": "commercial",
+    "lat": 9.5758,
+    "lng": 44.0345,
+    "district": "Guul Ala"
+  },
+  {
+    "osm_id": 5676161822,
+    "name": "Guled Mall",
+    "category": "Markets, Malls & Supermarkets",
+    "specific_type": "company",
+    "lat": 9.56124,
+    "lng": 44.06988,
+    "district": "Sheekh Madar الشيخ مدر"
+  },
+  {
+    "osm_id": 6289232285,
+    "name": "XAWAALADA TAAJ",
+    "category": "Markets, Malls & Supermarkets",
+    "specific_type": "bank",
+    "lat": 9.56138,
+    "lng": 44.05842,
+    "district": "Almis"
+  },
+  {
+    "osm_id": 871991602,
+    "name": "Baante Pharmacy",
+    "category": "Hospitals & Healthcare",
+    "specific_type": "pharmacy",
+    "lat": 9.55149,
+    "lng": 44.04285,
+    "district": "Guul Ala"
+  },
+  {
+    "osm_id": 202396173,
+    "name": "Cajab Fuel Station",
+    "category": "Transit & Services",
+    "specific_type": "yes",
+    "lat": 9.56182,
+    "lng": 44.06343,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 7128315585,
+    "name": "Sky Motors",
+    "category": "Transit & Services",
+    "specific_type": "car",
+    "lat": 9.56147,
+    "lng": 44.09614,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 1557758077,
+    "name": "Downtown Bus Station",
+    "category": "Transit & Services",
+    "specific_type": "bus_station",
+    "lat": 9.56074,
+    "lng": 44.06499,
+    "district": "Sheekh Madar الشيخ مدر"
+  },
+  {
+    "osm_id": 1138799090,
+    "name": "Harageisa Bus Station",
+    "category": "Transit & Services",
+    "specific_type": "bus_station",
+    "lat": 9.56293,
+    "lng": 44.06737,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 3191273858,
+    "name": "Hargeisa Police HQ مقر شرطة هرجيسا",
+    "category": "Government & Embassies",
+    "specific_type": "police",
+    "lat": 9.55385,
+    "lng": 44.05168,
+    "district": "Baxday بحدي"
+  },
+  {
+    "osm_id": 449363192,
+    "name": "Criminal Investigation Department (CID) Somaliand Police Force",
+    "category": "Government & Embassies",
+    "specific_type": "police",
+    "lat": 9.56064,
+    "lng": 44.04918,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 6066030885,
+    "name": "Police Station",
+    "category": "Government & Embassies",
+    "specific_type": "police",
+    "lat": 9.56054,
+    "lng": 44.07346,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 4463244374,
+    "name": "SPU (Special Protection Unit) & RRU (Rapid Response Unit) compound, Somaliland Police Force",
+    "category": "Government & Embassies",
+    "specific_type": "police",
+    "lat": 9.5522,
+    "lng": 44.05073,
+    "district": "Texas تكساس"
+  },
+  {
+    "osm_id": 8930352344,
+    "name": "Iftin Police Station",
+    "category": "Government & Embassies",
+    "specific_type": "police",
+    "lat": 9.55203,
+    "lng": 44.06782,
+    "district": "Makamed Cali محمد علي"
+  },
+  {
+    "osm_id": 4715776389,
+    "name": "مركز شرطة وسط البلد",
+    "category": "Government & Embassies",
+    "specific_type": "police",
+    "lat": 9.56027,
+    "lng": 44.06478,
+    "district": "Sheekh Madar الشيخ مدر"
+  },
+  {
+    "osm_id": 5470310921,
+    "name": "Djibouti embassy",
+    "category": "Government & Embassies",
+    "specific_type": "diplomatic",
+    "lat": 9.52183,
+    "lng": 44.06713,
+    "district": "Hargeisa"
+  },
+  {
+    "osm_id": 4284621889,
+    "name": "Embassy of Ethiopia",
+    "category": "Government & Embassies",
+    "specific_type": "diplomatic",
+    "lat": 9.55979,
+    "lng": 44.05132,
+    "district": "Lixle الحلي"
+  },
+  {
+    "osm_id": 586315065,
+    "name": "Mosque",
+    "category": "Mosques & Landmarks",
+    "specific_type": "place_of_worship",
+    "lat": 9.55284,
+    "lng": 44.09194,
+    "district": "Sheekh Madar الشيخ مدر"
+  }
+]

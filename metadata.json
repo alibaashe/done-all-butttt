@@ -1,0 +1,6 @@
+{
+  "name": "Wadaage",
+  "description": "Wadaage Taxi & Carpool - Somaliland's premier bilingual ride-hailing and driver mobility platform featuring Driver Fuel & Distance Management, WadaageShare pooling, Zaad & eDahab mobile money, and Hargeisa Live Radar.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

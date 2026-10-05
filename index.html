@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wadaage</title>
+    <meta name="description" content="Wadaage Taxi &amp; Carpool - Somaliland's premier bilingual ride-hailing and driver mobility platform featuring Driver Fuel &amp; Distance Management, WadaageShare pooling, Zaad &amp; eDahab mobile money, and Hargeisa Live Radar." />
+    <meta property="og:title" content="Wadaage" />
+    <meta property="og:description" content="Wadaage Taxi &amp; Carpool - Somaliland's premier bilingual ride-hailing and driver mobility platform featuring Driver Fuel &amp; Distance Management, WadaageShare pooling, Zaad &amp; eDahab mobile money, and Hargeisa Live Radar." />
+    <meta name="theme-color" content="#1D4ED8" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Wadaage" />
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+    <link rel="manifest" href="/manifest.json" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      window.gm_authFailure = function () {
+        console.warn('[Google Maps] Referrer or Auth restriction detected. Activating MapLibre layer.');
+        window.__googleMapsAuthFailed = true;
+        window.dispatchEvent(new CustomEvent('google-maps-auth-failure'));
+      };
+      window.addEventListener('error', function (event) {
+        if (event && (event.message && (event.message.includes('RefererNotAllowedMapError') || event.message.includes('Google Maps JavaScript API error')))) {
+          console.warn('[Google Maps] RefererNotAllowedMapError caught gracefully.');
+          window.__googleMapsAuthFailed = true;
+          window.dispatchEvent(new CustomEvent('google-maps-auth-failure'));
+          if (event.preventDefault) event.preventDefault();
+        }
+      });
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').catch(() => {});
+        });
+      }
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

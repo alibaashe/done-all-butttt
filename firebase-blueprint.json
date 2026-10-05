@@ -1,0 +1,249 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "User profile records for passengers, drivers, and admins",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "name": { "type": "string", "maxLength": 120 },
+        "email": { "type": "string", "maxLength": 120 },
+        "phone": { "type": "string", "maxLength": 30 },
+        "role": { "type": "string", "enum": ["passenger", "driver", "admin"] },
+        "avatar": { "type": "string", "maxLength": 500 },
+        "rating": { "type": "number" },
+        "totalTrips": { "type": "number" },
+        "status": { "type": "string", "enum": ["Active", "Blocked", "Suspended"] },
+        "createdAt": { "type": "string", "maxLength": 50 },
+        "updatedAt": { "type": "string", "maxLength": 50 }
+      },
+      "required": ["id", "name", "phone", "role"]
+    },
+    "Driver": {
+      "title": "Driver",
+      "description": "Active driver state, geolocation coordinates, ratings, and vehicle information",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "name": { "type": "string", "maxLength": 120 },
+        "phone": { "type": "string", "maxLength": 30 },
+        "avatar": { "type": "string", "maxLength": 500 },
+        "gender": { "type": "string", "enum": ["male", "female"] },
+        "rating": { "type": "number" },
+        "totalTrips": { "type": "number" },
+        "status": { "type": "string", "enum": ["available", "busy", "offline"] },
+        "isVerified": { "type": "boolean" },
+        "kycStatus": { "type": "string", "enum": ["approved", "pending", "rejected"] },
+        "currentLocation": { "type": "object" },
+        "vehicle": { "type": "object" },
+        "todayEarnings": { "type": "number" },
+        "weeklyEarnings": { "type": "number" },
+        "hoursOnline": { "type": "number" },
+        "acceptanceRate": { "type": "number" },
+        "walletBalanceUsd": { "type": "number" },
+        "updatedAt": { "type": "string", "maxLength": 50 }
+      },
+      "required": ["id", "name", "phone", "status"]
+    },
+    "Ride": {
+      "title": "Ride",
+      "description": "Passenger and shared ride requests, tracking state, and fare calculations",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "riderId": { "type": "string", "maxLength": 128 },
+        "riderName": { "type": "string", "maxLength": 120 },
+        "riderPhone": { "type": "string", "maxLength": 30 },
+        "pickup": { "type": "object" },
+        "destination": { "type": "object" },
+        "category": { "type": "string", "maxLength": 50 },
+        "isShared": { "type": "boolean" },
+        "seatsBooked": { "type": "number" },
+        "status": { "type": "string", "enum": ["requested", "accepted", "arrived", "in_progress", "completed", "cancelled"] },
+        "driverId": { "type": "string", "maxLength": 128 },
+        "driverName": { "type": "string", "maxLength": 120 },
+        "driverPhone": { "type": "string", "maxLength": 30 },
+        "driverAvatar": { "type": "string", "maxLength": 500 },
+        "vehicleModel": { "type": "string", "maxLength": 80 },
+        "licensePlate": { "type": "string", "maxLength": 40 },
+        "fareUsd": { "type": "number" },
+        "fareSlsh": { "type": "number" },
+        "originalFareUsd": { "type": "number" },
+        "paymentMethod": { "type": "string", "maxLength": 30 },
+        "paymentStatus": { "type": "string", "enum": ["pending", "paid", "refunded"] },
+        "otpCode": { "type": "string", "maxLength": 10 },
+        "coRiders": { "type": "array" },
+        "distanceKm": { "type": "number" },
+        "durationMins": { "type": "number" },
+        "createdAt": { "type": "string", "maxLength": 50 },
+        "updatedAt": { "type": "string", "maxLength": 50 }
+      },
+      "required": ["id", "riderId", "riderName", "status", "fareUsd"]
+    },
+    "SystemSettings": {
+      "title": "SystemSettings",
+      "description": "Platform global pricing, exchange rate, commissions, and policies",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "baseFare": { "type": "number" },
+        "perKmRate": { "type": "number" },
+        "perMinuteRate": { "type": "number" },
+        "surgeMultiplier": { "type": "number" },
+        "exchangeRate": { "type": "number" },
+        "commissionRate": { "type": "number" },
+        "minimumFare": { "type": "number" },
+        "sharedDiscountPercent": { "type": "number" },
+        "updatedBy": { "type": "string", "maxLength": 120 },
+        "updatedAt": { "type": "string", "maxLength": 50 }
+      },
+      "required": ["id", "baseFare", "perKmRate", "exchangeRate"]
+    },
+    "Transaction": {
+      "title": "Transaction",
+      "description": "Financial ledger transactions including driver top-ups, commissions, and ride payouts",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "type": { "type": "string", "enum": ["ride_fare", "commission", "top_up", "payout", "refund"] },
+        "amountUsd": { "type": "number" },
+        "amountSlsh": { "type": "number" },
+        "description": { "type": "string", "maxLength": 300 },
+        "paymentMethod": { "type": "string", "maxLength": 50 },
+        "status": { "type": "string", "enum": ["completed", "pending", "failed"] },
+        "userId": { "type": "string", "maxLength": 128 },
+        "userName": { "type": "string", "maxLength": 120 },
+        "timestamp": { "type": "string", "maxLength": 50 }
+      },
+      "required": ["id", "type", "amountUsd", "status", "timestamp"]
+    },
+    "StaffRole": {
+      "title": "StaffRole",
+      "description": "Admin sub-users and RBAC permissions management",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "name": { "type": "string", "maxLength": 120 },
+        "email": { "type": "string", "maxLength": 120 },
+        "role": { "type": "string", "maxLength": 60 },
+        "phone": { "type": "string", "maxLength": 30 },
+        "permissions": { "type": "array" },
+        "status": { "type": "string", "enum": ["Active", "Inactive"] },
+        "createdAt": { "type": "string", "maxLength": 50 }
+      },
+      "required": ["id", "name", "email", "role"]
+    },
+    "SupportTicket": {
+      "title": "SupportTicket",
+      "description": "Safety SOS alerts, disputes, and customer support tickets",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "rideId": { "type": "string", "maxLength": 128 },
+        "userId": { "type": "string", "maxLength": 128 },
+        "userName": { "type": "string", "maxLength": 120 },
+        "userPhone": { "type": "string", "maxLength": 30 },
+        "userRole": { "type": "string", "maxLength": 30 },
+        "issueType": { "type": "string", "maxLength": 80 },
+        "status": { "type": "string", "enum": ["open", "investigating", "resolved", "dismissed"] },
+        "priority": { "type": "string", "enum": ["low", "medium", "high", "critical"] },
+        "description": { "type": "string", "maxLength": 1000 },
+        "createdAt": { "type": "string", "maxLength": 50 }
+      },
+      "required": ["id", "userName", "issueType", "status"]
+    },
+    "ChatMessage": {
+      "title": "ChatMessage",
+      "description": "Real-time chat messages exchanged between driver and passenger during an active ride",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "rideId": { "type": "string", "maxLength": 128 },
+        "senderId": { "type": "string", "maxLength": 128 },
+        "senderName": { "type": "string", "maxLength": 120 },
+        "senderRole": { "type": "string", "enum": ["passenger", "driver"] },
+        "text": { "type": "string", "maxLength": 1000 },
+        "timestamp": { "type": "string", "maxLength": 30 },
+        "createdAt": { "type": "string", "maxLength": 50 },
+        "read": { "type": "boolean" }
+      },
+      "required": ["id", "rideId", "senderRole", "text"]
+    },
+    "DriverApplication": {
+      "title": "DriverApplication",
+      "description": "Driver partner onboarding applications, vehicle documentation, and KYC verification records",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "fullName": { "type": "string", "maxLength": 120 },
+        "phone": { "type": "string", "maxLength": 30 },
+        "email": { "type": "string", "maxLength": 120 },
+        "city": { "type": "string", "maxLength": 60 },
+        "vehicleType": { "type": "string", "maxLength": 50 },
+        "vehicleMake": { "type": "string", "maxLength": 60 },
+        "vehicleModel": { "type": "string", "maxLength": 60 },
+        "vehicleYear": { "type": "string", "maxLength": 10 },
+        "plateNumber": { "type": "string", "maxLength": 30 },
+        "status": { "type": "string", "enum": ["pending", "approved", "rejected"] },
+        "submittedAt": { "type": "string", "maxLength": 50 }
+      },
+      "required": ["id", "fullName", "phone", "status"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profiles for passengers, drivers, and administrators"
+    },
+    "/drivers/{driverId}": {
+      "schema": "Driver",
+      "description": "Real-time driver location, vehicle data, availability, and earnings"
+    },
+    "/rides/{rideId}": {
+      "schema": "Ride",
+      "description": "Real-time ride requests, status transitions, driver assignments, and fares"
+    },
+    "/rides/{rideId}/messages/{messageId}": {
+      "schema": "ChatMessage",
+      "description": "Real-time in-ride chat communication between driver and passenger"
+    },
+    "/system_settings/{settingId}": {
+      "schema": "SystemSettings",
+      "description": "Platform settings, pricing matrices, and currency exchange rates"
+    },
+    "/transactions/{transactionId}": {
+      "schema": "Transaction",
+      "description": "Financial accounting logs for payments and wallet top-ups"
+    },
+    "/driver_applications/{appId}": {
+      "schema": "DriverApplication",
+      "description": "Driver onboarding applications and KYC records"
+    },
+    "/staff_roles/{staffId}": {
+      "schema": "StaffRole",
+      "description": "Sub-admin staff accounts and permission levels"
+    },
+    "/support_tickets/{ticketId}": {
+      "schema": "SupportTicket",
+      "description": "SOS emergency alerts and customer support incident tickets"
+    },
+    "/rides/{rideId}/calls/{callId}": {
+      "description": "Active in-app WebRTC voice call sessions"
+    },
+    "/rides/{rideId}/call_signals/{signalId}": {
+      "description": "WebRTC SDP offer/answer signals and ICE candidate packets"
+    },
+    "/vehicles/{vehicleId}": {
+      "description": "Driver vehicle fuel economy profiles and efficiency ratings"
+    },
+    "/fuel_logs/{logId}": {
+      "description": "Driver fuel fill-up logs and station purchase records"
+    },
+    "/driving_sessions/{sessionId}": {
+      "description": "Real-time driving distance, fuel consumption, and GPS telemetry"
+    },
+    "/fuel_daily_reports/{reportId}": {
+      "description": "Daily fuel efficiency summaries and savings analytics"
+    }
+  }
+}
